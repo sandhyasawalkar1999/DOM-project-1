@@ -1,0 +1,12 @@
+#targetdiv{
+    width: 20vw;
+    height: 30vh;
+    background-color: rgb(255, 115, 0);
+    color: blue;
+    margin: 20px;
+    padding: auto;
+}
+.head{
+    margin-top: 18px;
+    padding: 10px;
+}
